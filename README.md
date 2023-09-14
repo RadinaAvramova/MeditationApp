@@ -1,2 +1,1 @@
 # MeditationApp
-Meditation App
