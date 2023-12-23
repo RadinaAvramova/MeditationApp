@@ -25,12 +25,16 @@ The Todo List App is a task management web application that helps users keep tra
 
 # Features
 Variety of meditation sessions (guided, nature sounds, etc.).
+
 Timer functionality for custom meditation sessions.
+
 Relaxing background music or nature sounds.
 
 # Technologies Used
 JavaScript
+
 HTML
+
 CSS
 
 # Installation
