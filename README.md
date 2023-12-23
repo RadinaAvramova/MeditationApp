@@ -1,3 +1,4 @@
 # MeditationApp
- 
- Live Demo: https://replit.com/@RadinaAvramova/Medidation-App 
+
+The Todo List App is a task management web application that helps users keep track of their daily tasks. Built with JavaScript, this app provides an easy-to-use interface for adding, editing, and completing tasks.
+
